@@ -18,3 +18,5 @@ My first fully-featured full-stack app, foolishly spent my vacation on it :)
 Simple single file Vue.js SPA
 - **bezier** [[demo]](https://aethelz.gitlab.io/bezier/) [[code]](https://github.com/aethelz/bezier) *A simple pure JS+SVG bezier curve drawing app*<br />
 Take-home assignment solution that landed me my first software developer job 🚀
+- **ballistgraph** [[demo]](https://aethelz.gitlab.io/366/) [[code]](https://github.com/aethelz/ballistgraph) *A simple VanillaJS cartridge-comparing webapp*<br />
+My first project in Vanilla JavaScript 🙈
