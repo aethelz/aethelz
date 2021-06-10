@@ -1,5 +1,7 @@
 ### Brief guide to my projects
 
+- **React Subscription** [[demo]](https://aethelz.github.io/react-subscription/) [[code]](https://github.com/aethelz/react-subscription)<br />
+This is my solution to a take-home assignment done in 4 days in spare time. It features a finished React + TypeScript app with basic Redux setup and Bulma styling.
 - **React CRUD dashboard** [[demo]](https://aethelz.github.io/react-crud-dashboard/) [[code]](https://github.com/aethelz/react-crud-dashboard)<br />
 This is my solution to a take-home CodeSubmit CRUD assignment with a 6 hour time limit. It features a finished app with Cypress tests.
 - **React - Wookie Movies** [[demo]](https://aethelz.github.io/react-wookie-movies/#/) [[code]](https://github.com/aethelz/react-wookie-movies)<br />
